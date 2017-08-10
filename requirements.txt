@@ -1,0 +1,2 @@
+odooku-odoo-addons
+git+https://github.com/odooku/odooku.git
