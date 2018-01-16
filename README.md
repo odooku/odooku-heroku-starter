@@ -1,5 +1,5 @@
 ```
-$ heroku create --buildpack https://github.com/odooku/odooku-buildpack.git#10.0
+$ heroku create --buildpack https://github.com/odooku/odooku-buildpack.git#11.0
 $ heroku addons:create heroku-postgresql:hobby-basic
 $ heroku addons:create heroku-redis:hobby-dev
 $ heroku config:set AWS_ACCESS_KEY_ID=<your_aws_key>
